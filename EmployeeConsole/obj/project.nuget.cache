@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oSUDGD68ObgRlx9Z5bpmXfSHImYdzieUwHeGdVWM7nRm9YceS6ubO3buSUgEt36rtHBybqiwbFq/v6+5FM0I+A==",
+  "success": true,
+  "projectFilePath": "D:\\EmployeeApp\\EmployeeApp\\EmployeeConsole\\EmployeeConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\silvija.peshova\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
